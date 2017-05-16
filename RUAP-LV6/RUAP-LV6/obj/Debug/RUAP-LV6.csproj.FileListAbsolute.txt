@@ -1,0 +1,10 @@
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\bin\Debug\RUAP-LV6.exe.config
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\bin\Debug\RUAP-LV6.exe
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\bin\Debug\RUAP-LV6.pdb
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\bin\Debug\Newtonsoft.Json.dll
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\bin\Debug\System.Net.Http.Formatting.dll
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\bin\Debug\Newtonsoft.Json.xml
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\bin\Debug\System.Net.Http.Formatting.xml
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\obj\Debug\RUAP-LV6.csprojResolveAssemblyReference.cache
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\obj\Debug\RUAP-LV6.exe
+D:\Student\Documents\Visual Studio 2013\Projects\RUAP-LV6\RUAP-LV6\obj\Debug\RUAP-LV6.pdb
